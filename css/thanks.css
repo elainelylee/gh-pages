@@ -1,0 +1,16 @@
+body {
+	text-align:center;
+}
+.content{
+	margin:5rem;
+}
+h2 {
+	font-size: 1.75rem;
+	font-weight: bold;
+	margin-top:3rem;
+}
+
+p {
+	font-size: 1.5rem;
+	line-height: .75;
+}
