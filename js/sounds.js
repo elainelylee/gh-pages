@@ -59,7 +59,7 @@ $(document).ready(function(){
   $(".pad-2")
       .on('mouseover', function(e){
           var clicked=$(e.currentTarget);
-          clicked.find("img").attr("src","img/i.png")
+          clicked.find("img").attr("src","img/I.png")
           clicked.find("audio")[0].play();
       })
       .on('mouseout', function(e){
