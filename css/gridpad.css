@@ -1,5 +1,8 @@
+.content {
+	margin:3rem;
+}
 .pad-1, .pad-2, .pad-3, .pad-4 {
-	margin: 3rem 0 0 3rem;
+	margin: 2rem 0 0 2rem;
 }
 
 audio {
